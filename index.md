@@ -1,6 +1,6 @@
 ## Welcome to my page!
 
-Hello everyone, I'm Luken and I'm 18. I would like to be a Computer Engenieer.This webpage was made using Github. 
+Hello everyone, I'm Luken and I'm 18. I want to be a Computer Engineer. This webpage was made using Github. 
 
 ### My skills
 
