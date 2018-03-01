@@ -25,8 +25,8 @@ Hello everyone, I'm Luken and I'm 18. I would like to be a Computer Engenieer.Th
 - English `B1`
 
 
-_The percentage is estimated, not real at all._
+*The percentage is estimated, not real at all.*
 ```
 
-For more details [contact me] (lukenvidal@yahoo.com)
+For more details :postbox: lukenvidal@yahoo.com
 
